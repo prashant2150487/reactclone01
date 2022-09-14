@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactclone01/static/css/main.fd5e0b02.css",
+    "main.js": "/reactclone01/static/js/main.0a1a5ebc.js",
+    "index.html": "/reactclone01/index.html",
+    "main.fd5e0b02.css.map": "/reactclone01/static/css/main.fd5e0b02.css.map",
+    "main.0a1a5ebc.js.map": "/reactclone01/static/js/main.0a1a5ebc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd5e0b02.css",
+    "static/js/main.0a1a5ebc.js"
+  ]
+}
